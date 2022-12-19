@@ -96,7 +96,7 @@ $ ionic serve
 
 ## Authors
 
-* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Trivia App](https://github.com/thepembeweb/coffee-shop-app)
+* **[Pemberai Sweto](https://github.com/thepembeweb)** - *Initial work* - [Coffee Shop App](https://github.com/thepembeweb/coffee-shop-app)
 
 ## License
 
